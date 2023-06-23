@@ -1,0 +1,21 @@
+1. Viết một chương trình JavaScript để tính điểm trung bình của một sinh viên và xếp loại 
++  Học lực của sinh viên đó dựa trên điểm trung bình đó.
++  Nếu lớn hơn 9 là xuất xắc, nếu lớn hơn 8 là giỏi , lớn hơn hoặc bằng 7 là khá, bằng  6 là trung bình dưới 6 là yếu.
+Note: Có thể sử dụng Switchcase hoặc if else.
+
+2. Cho chiều rộng là 20cm và chiều dài 60 hãy tính chu vi và diện tích hình chữ nhật.
+Note: Viết function tính ra kết quả.
+
+3. const Student = [
+  { ten: "Hoa", tuoi: 15, gioiTinh: "Nữ" },
+  { ten: "Tuan", tuoi: 17, gioiTinh: "Nam" },
+  { ten: "Lan", tuoi: 18, gioiTinh: "Nữ" },
+  { ten: "Minh", tuoi: 19, gioiTinh: "Nam" },
+  { ten: "An", tuoi: 20, gioiTinh: "Nam" },
+  { ten: "Hoài", tuoi: 18, gioiTinh: "Nam" },
+  { ten: "Nam", tuoi: 16, gioiTinh: "Nam" },
+  { ten: "Phước", tuoi: 15, gioiTinh: "Nam" }
+];
+
++ Hãy tìm ra học sinh có số tuổi là 18
++ Hãy tìm ra học sinh có giới tính là Nam
