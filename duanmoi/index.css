@@ -1,0 +1,66 @@
+
+body{
+    margin: 0;
+}
+.panel{
+    margin: 0;
+    transition:transform 0.5s; 
+
+    flex: 1 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+html{
+    box-sizing: border-box;
+    background-color: red;
+    font-family: 'helvetica neue';
+    font-size: 20px;
+    font-weight: 200;
+}
+*,*:before, *:after{
+    box-sizing: inherit;
+}
+.panels{
+    min-height: 100vh;
+    overflow: hidden;
+    display: flex; /* lenh display flex là lệnh xếp hàng */
+    flex-direction: row; /*xếp hàng ngang*/
+}
+.panel{
+    background-color: blueviolet;
+    box-shadow:inset 0 0 0 5px rebeccapurple;
+    color: white;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.panel1{
+    background-image:url(https://media.tenor.com/rdvD3NPg41wAAAAd/my-honest-reaction-my.gif) ;
+}
+.panel2{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSWkt8dacEubyjOg8hEOWBTZ55nTaoBHzynasMUwjKBzL2ETkZqE3Ibk9XOJy04XP24sk&usqp=CAU);
+}
+.panel3{
+    background-image: url(data:image/jpeg;base64,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);
+}
+.panel4{
+    background-image: url(https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?resize=476%2C280&ssl=1);
+}
+.panel5{
+    background-image: url(https://gifdb.com/images/thumbnail/illuminati-eye-pyramid-green-screen-eimjtg8qpj8i03zs.gif);
+}
+.panel p{
+    text-transform: uppercase;
+    font-family: 'Amatic SC', cursive;
+    text-shadow: 0 0 4px black, 0 0 14px rgb(49, 49, 49);
+}
+.panel p:nth-child(2){
+    font-size: 4rem;
+}
+.panel.open{
+    flex: 5;
+    font-size: 40px;
+}
