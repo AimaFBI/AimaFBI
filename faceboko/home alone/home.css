@@ -1,0 +1,251 @@
+.header-1{
+    display: flex;
+}
+.header-1>input{
+    border-radius: 100px;
+    height: 25px;
+    margin-top: 20px;
+}
+header{
+    background-color: #1870d9;
+    display: flex;
+    justify-content: space-around;
+
+}
+.search{
+    background-color: #013370;
+}
+.thanh{
+    color: white;
+    display: flex;
+}
+#add{
+    padding: 8px;
+    margin-top: 18px;
+    font-size: 20px;
+}
+#border{
+    border-radius: 50px;
+    margin-top: 10px;
+    padding: 4px;
+}
+.me{
+    position: relative;
+}
+.cha{
+    position: absolute;
+    display: flex;
+    margin-top: -150px;
+}
+.anh{
+    margin-top: -20% ;
+    margin-left: 30px;
+    border: 5px solid white;
+    border-radius: 10px;
+}
+.em{
+    color: white;
+    margin-left: 20px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.chung{
+    padding-top: 28px;
+    z-index: 2;
+
+    
+}
+.cssul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin-left: -45px;
+}
+.cssul>li{
+    margin-left: 26px;
+    display: flex;
+    justify-content: center;
+}
+.pad{
+    padding: 20px;
+    background-color: white;
+    position: absolute;
+    margin-top: -170px;
+    margin-left: -1%;
+    width: 92%;
+
+}
+#red{
+    color: red;
+
+}
+.around{
+    background-color: white;
+    padding-right: 73px;
+    padding-top: 41px;
+    margin-top: -2%;
+    margin-left: 31px;
+    border-radius: 2px;
+}
+.status{
+    position: relative;
+    width: 30%;
+}
+.blu{
+   background-color: #013370;
+   display: flex;
+   padding-top: 24px;
+}
+.chu{
+    margin-left: 20px;
+}
+.emmocoi{
+    position: relative;
+}
+.around2{
+    background-color: white;
+    padding-right: 57%;
+    padding-top: 50px;
+    margin-top: 5%;
+    margin-left: 31px;
+    border-radius: 2px;
+
+}
+.chu2{
+    margin-left: 50px;
+    font-size: 20px;
+}
+.chu2>img{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.bamaygay{
+    position: relative;
+}
+.around3{
+    background-color: white;
+    padding-right: 57%;
+    padding-top: 41px;
+    margin-top: 5%;
+    margin-left: 31px;
+    border-radius: 2px;
+}
+.chu3{
+    margin-left: 25px;
+    font-size: 20px;
+}
+.chu3>h5{
+    border: rgb(147, 147, 147) solid 1px;
+    background-color: rgb(193, 193, 193);
+    color: rgb(0, 0, 0);
+    height: 20px;
+    width: 280px;
+}
+.chu3>i{
+    margin-top: 20px;
+}
+#mine{
+    display: flex;
+}
+.memaybeo{
+    position: relative;
+    width: 50%;
+    margin-top: 80px;
+    margin-left: 20px;
+}
+.around4{
+    background-color: white;
+    padding-bottom: 10px;
+
+}
+.chu4{
+    display: flex;
+    margin-left: 25px;
+}
+.around5{
+    background-color: white;
+}
+.chu5{
+    margin-left: 25px;
+    display: flex;
+}
+.chu5>p{
+    color: gray;
+    margin-left: 10px;
+
+}
+.chu5>img{
+    border-radius: 100px;
+}
+.chu6>p{
+    color: gray;
+    margin-left: 10px;
+
+}
+.chu6>img{
+    border-radius: 100px;
+}
+.chu6{
+    margin-left: 25px;
+    display: flex;
+}
+.around6{
+    background-color: white;
+}
+.anh2>img{
+    border-radius: 100px;
+}
+.chapcuoicung{
+    display: flex;
+    flex-direction: column;
+    width: 10%;
+
+}
+.anh2{
+    margin-left: 75px;
+    margin-top: 20px;
+}
+#tridodai{
+    margin-top: 20px;
+}
+#image{
+    margin-top: 20px;
+}
+#image2{
+    margin-top: 30px;
+}
+.mine{
+    display: flex;
+}
+#craft{
+    margin-left: 5px;
+    margin-top: -2px;
+}
+#memay{
+    margin-top: -20px;
+}
+#craft2{
+    margin-left: 30px;
+    margin-top: -24px;
+}
+#craft3{
+    margin-left: 30px;
+    margin-top: -24px;
+    font-size: 20px;
+}
+#craft4{
+    font-size: 20px;
+}
+#craft5{
+    color: #1870d9;
+    margin-left: 30px;
+    margin-top: -24px;
+}
+#craft6{
+    margin-bottom: 9px;
+}
+body{
+    margin: 0;
+}

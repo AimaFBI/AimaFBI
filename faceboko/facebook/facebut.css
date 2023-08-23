@@ -1,0 +1,151 @@
+header {
+    background-color: #3b5998;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+#facebook {
+    font-size: 3rem;
+    color: white;
+    margin-left: 80px;
+
+}
+
+.phone {
+    color: white;
+}
+
+.pasword {
+    color: white;
+}
+
+.header2 {
+    display: flex;
+}
+
+.login {
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.language {
+    display: flex;
+    margin-top: 50%;
+}
+
+.demo {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    list-style-type: none;
+
+}
+
+a {
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#big{
+    font-size: 2rem;
+}
+#font{
+    width: 21rem;
+    margin-top: 3px;
+    height: 10%;
+    border-radius: 5px;
+}
+#password{
+    width: 21rem;
+    margin-top: 3px;
+    height: 10%;
+    border-radius: 5px;
+}
+.gender{
+    display: flex;
+    justify-content: space-around;
+    width: 25px;
+    height: 50px;
+    margin-left: 45px;
+}
+.moidung{
+    margin-left: 20%;
+}
+body{
+    margin: 0;
+}
+.password{
+    margin-left: 2px;
+}
+.blod{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.blod>img{
+    width: 40%;
+}
+.blod>p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#fento{
+    height: 10%;
+    border-radius: 5px;
+}
+#gender{
+    font-size: 20px;
+    margin-left: 42px;
+}
+.gender2{
+    margin-left: 25px;
+}
+.signin{
+    margin-top: 0%;
+}
+
+
+
+.items{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.item1{
+    width: 50%;
+    margin-left: 4rem;
+
+}
+.item2{
+    width: 50%;
+    height: 100%;
+}
+.dangky{
+    margin-top: 5rem;
+}
+#buton{
+    padding: 15px 80px;
+    font-size: medium ;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(139, 255, 139);
+    color: white;
+    border-radius: 5px;
+}
+footer{
+    background-color: rgb(255, 255, 255);
+    padding-bottom: 5rem;
+    width: 100%;
+}
+.items{
+    background-color: aliceblue;
+    padding: 2rem;
+}
+.anh{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-left: 15rem;
+    font-size: 10px;
+}
+.chau{
+    margin-left: -50rem;
+}
